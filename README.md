@@ -87,7 +87,7 @@
 - [MongoDB Atlas](https://www.mongodb.com/docs/atlas/ "MongoDB Atlas")
 - [Netlify](https://www.netlify.com/ "Netlify")
 
-## Studying
+## Study
 
 ### Free
 
